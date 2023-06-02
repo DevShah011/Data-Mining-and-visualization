@@ -4,7 +4,7 @@ Beautiful Soup is a Python library for pulling data out of HTML and XML files. I
 Microsoft Power BI is an interactive data visualization software product frequently used by Data Analysts.
 CSV files obtained from the interet using BeautifulSoup are loaded into PowerBI.
 
-Demonstration
+#Demonstration
 
 
 The final team  is:-
@@ -20,7 +20,7 @@ The fast bowlers are:-
 The spinners are:-
 ![image](https://github.com/DevShah011/Data-Mining-and-visualization/assets/115929900/a20c52c3-6258-407a-a492-cbe99281cda5)
 
-The allrounders are selected by: Averaage Diff = Batting average - Bowling Average
+The allrounders are selected by: Average Diff = Batting average - Bowling Average
 The all rounders are:-
 ![image](https://github.com/DevShah011/Data-Mining-and-visualization/assets/115929900/60d1531c-ae53-4c6e-8ccf-a4adbef20471)
 

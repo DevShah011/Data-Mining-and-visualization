@@ -25,6 +25,7 @@ The spinners are:-
 ![image](https://github.com/DevShah011/Data-Mining-and-visualization/assets/115929900/a20c52c3-6258-407a-a492-cbe99281cda5)
 
 The allrounders are selected by: Average Diff = Batting average - Bowling Average
+
 The all rounders are:-
 ![image](https://github.com/DevShah011/Data-Mining-and-visualization/assets/115929900/60d1531c-ae53-4c6e-8ccf-a4adbef20471)
 

@@ -15,9 +15,11 @@ The final team  is:-
 Batsman(Powerhitters) are selected based on batting average:-
 ![image](https://github.com/DevShah011/Data-Mining-and-visualization/assets/115929900/40cccacf-e7cc-44ae-8745-30edb34bd774)
 
-Bowlers are selected based on bowling average(lower the bowling average the better):-
+Bowlers are selected based on bowling average(lower the bowling average the better)
+
 The fast bowlers are:-
 ![image](https://github.com/DevShah011/Data-Mining-and-visualization/assets/115929900/16aab531-fa76-4ba8-90c0-b0fc77c411c4)
+
 
 The spinners are:-
 ![image](https://github.com/DevShah011/Data-Mining-and-visualization/assets/115929900/a20c52c3-6258-407a-a492-cbe99281cda5)

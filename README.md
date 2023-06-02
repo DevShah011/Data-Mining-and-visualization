@@ -6,7 +6,7 @@ CSV files obtained from the interet using BeautifulSoup are loaded into PowerBI.
 
 # Demonstration
 
-
+All the players need atleast 200 innings to qualify for the best team
 The final team  is:-
 ![image](https://github.com/DevShah011/Data-Mining-and-visualization/assets/115929900/225fdcee-b613-457d-8762-42e5dce23a9d)
 

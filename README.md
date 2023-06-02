@@ -1,13 +1,13 @@
 # Data-Mining-and-visualization
 Data is mined using BeautifulSoup Library in python from the internet. It is then visualized using PowerBI. The data used in the project is statistics of cricketers. The goal is to show the best team and visualize using dashboard and charts.
-Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
+Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with parsers to provide idiomatic ways of navigating, searching, and modifying the parse tree.
 Microsoft Power BI is an interactive data visualization software product frequently used by Data Analysts.
 CSV files obtained from the interet using BeautifulSoup are loaded into PowerBI.
 
 Demonstration
 
 
-The final team based is:-
+The final team  is:-
 ![image](https://github.com/DevShah011/Data-Mining-and-visualization/assets/115929900/225fdcee-b613-457d-8762-42e5dce23a9d)
 
 Batsman(Powerhitters) are selected based on batting average:-
